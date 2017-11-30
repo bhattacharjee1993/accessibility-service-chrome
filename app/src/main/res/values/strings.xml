@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityBrowser</string>
+    <string name="accessibility_service_description">AccessibilityService</string>
+</resources>
